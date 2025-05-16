@@ -32,9 +32,10 @@
 ---
 ### 📊 GitHub Stats
 
-![Thu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThuPham60232004&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThuPham60232004&layout=compact&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuPham60232004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuPham60232004&layout=compact&theme=radical" />
+</div>
 
 ---
 ### 📬 Contact Me
