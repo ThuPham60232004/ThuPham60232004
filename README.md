@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thu Pham</h1>
 <h3 align="center">Final-year Software Engineering student passionate about Blockchain and AI</h3>
 ---
-
 - 🎓 I’m currently studying **Software Engineering (2022 - 2026)**  
 - 🧠 I’m part of a **Blockchain Club** and an **AI Research Group**  
 - 🏆 First Prize - **Fintech Blockchain Hackathon 2024**  
