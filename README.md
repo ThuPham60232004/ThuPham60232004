@@ -5,7 +5,7 @@
 - 🧠 I’m part of a **Blockchain Club** and an **AI Research Group**  
 - 🏆 First Prize - **Fintech Blockchain Hackathon 2024**  
 - 🔭 I’m currently working on **DermaScan AI – an AI-driven skin analysis app**
-- 💼 Current Position **Software Engineering Intern**
+- 💼 Currently working at **FintechAI company**
 ---
 
 ### 💻 Tech Stack
