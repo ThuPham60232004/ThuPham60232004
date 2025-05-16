@@ -20,6 +20,20 @@
 
 ---
 
+### 📫 Kết nối với tôi:
+
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/re.mi.790256/" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:phamthianhthu6023789@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
 ### 🛠️ Kỹ năng:
 
 🧠 Ngôn ngữ:
