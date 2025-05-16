@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thu Pham</h1>
 <h3 align="center">Final-year Software Engineering student passionate about Blockchain and AI</h3>
 <p align="center">
-  <img src="ChatGPT Image May 16, 2025, 05_07_08 PM.png" alt="Thu Pham" width="200"/>
+  <img src="https://github.com/ThuPham60232004/ThuPham60232004/blob/main/ChatGPT%20Image%20May%2016%2C%202025%2C%2005_07_08%20PM.png?raw=true" alt="Thu Pham" width="200"/>
 </p>
+
 ---
 
 - 🎓 I’m currently studying **Software Engineering (2022 - 2026)**  
