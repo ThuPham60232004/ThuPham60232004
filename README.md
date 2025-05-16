@@ -22,7 +22,7 @@
 
 ### 📫 Kết nối với tôi:
 
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/anh-th%C6%B0-ph%E1%BA%A1m-th%E1%BB%8B-226002366/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/re.mi.790256/" target="_blank">
