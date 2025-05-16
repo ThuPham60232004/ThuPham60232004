@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thu Pham</h1>
 <h3 align="center">Final-year Software Engineering student passionate about Blockchain and AI</h3>
-
+<p align="center">
+  <img src="ChatGPT Image May 16, 2025, 05_07_08 PM.png" alt="Thu Pham" width="200"/>
+</p>
 ---
 
 - 🎓 I’m currently studying **Software Engineering (2022 - 2026)**  
@@ -17,20 +19,6 @@
 - **Backend:** Node.js, FastAPI  
 - **Tools & Platforms:** Firebase, GitHub, Adobe XD, Render  
 - **Soft skills:** Teamwork, Research, CI/CD, Basic English communication  
-
----
-
-### 📫 Kết nối với tôi:
-
-<a href="https://www.linkedin.com/in/anh-th%C6%B0-ph%E1%BA%A1m-th%E1%BB%8B-226002366/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/re.mi.790256/" target="_blank">
-  <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:phamthianhthu6023789@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 ---
 
@@ -55,9 +43,19 @@
 ---
 ### 📬 Contact Me
 
-📧 Email: [phamthianhthu6023789@gmail.com](mailto:phamthianhthu6023789@gmail.com)  
+<a href="https://www.linkedin.com/in/anh-th%C6%B0-ph%E1%BA%A1m-th%E1%BB%8B-226002366/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/re.mi.790256/" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:phamthianhthu6023789@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 📞 Phone: (+84) 0868 322 170  
 📍 Address: 104/5B Phạm Hữu Lầu, Quận 7, TP.HCM  
 🔗 GitHub: [ThuPham60232004](https://github.com/ThuPham60232004)
+📍 GitHub: [CV](https://www.canva.com/design/DAGfhgFZskc/-g49URWEMAQ_tOzHKR6Wug/edit?utm_content=DAGfhgFZskc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
