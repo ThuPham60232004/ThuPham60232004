@@ -4,7 +4,6 @@
 - 🎓 I’m currently studying **Software Engineering (2022 - 2026)**  
 - 🧠 I’m part of a **Blockchain Club** and an **AI Research Group**  
 - 🏆 First Prize - **Fintech Blockchain Hackathon 2024**  
-- 🔭 I’m currently working on **DermaScan AI – an AI-driven skin analysis app**
 - 💼 Currently working at **FintechAI company**
 ---
 
