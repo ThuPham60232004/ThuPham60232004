@@ -48,6 +48,6 @@
 📞 Phone: (+84) 0868 322 170  
 📍 Address: 104/5B Phạm Hữu Lầu, Quận 7, TP.HCM  
 🔗 GitHub: [ThuPham60232004](https://github.com/ThuPham60232004)
-📍 GitHub: [CV](https://www.canva.com/design/DAGfhgFZskc/-g49URWEMAQ_tOzHKR6Wug/edit?utm_content=DAGfhgFZskc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+📍 CV: [CV](https://www.canva.com/design/DAGfhgFZskc/-g49URWEMAQ_tOzHKR6Wug/edit?utm_content=DAGfhgFZskc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
